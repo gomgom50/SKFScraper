@@ -6,4 +6,4 @@ like this one:
 ![https://imgur.com/a/AjJUbZZ](https://i.imgur.com/OAeudfq.png)
 
 
-dumps to a csv with using the link name. 
+dumps to a csv file named after the link. 
